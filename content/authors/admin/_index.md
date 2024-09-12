@@ -72,7 +72,7 @@ work:
     company_name: Scale AI
     company_url: 'https://scale.com/'
     company_logo: ''
-    date_start: 2023-05-7
+    date_start: 2023-05-07
     date_end: '2024-07-18'
     summary: |2-
       Responsibilities include:
