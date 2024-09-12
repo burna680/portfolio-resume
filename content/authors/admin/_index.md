@@ -116,14 +116,14 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Biking
+      - name: Cycling
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: person-biking-mountain
+      - name: Poetry
         description: ''
         percent: 80
-        icon: camera
+        icon: book
 
 languages:
   - name: Spanish
@@ -137,18 +137,18 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+projects:
   - title: Conversational Chatbot
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2024-09-11'
-    awarder: Langchain
-    icon: langchain
+    # awarder: Langchain
+    # icon: langchain
     # summary: |
     #   I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Car Safety Predictor
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2024-08-20'
-    awarder: edX
+    # awarder: edX
     # icon: edx
     # summary: |
     #   Learned:
