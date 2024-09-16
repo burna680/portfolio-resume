@@ -27,13 +27,10 @@ role: Machine Learning Engineer
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:burna680@gmail.com'
-    label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/burna680
   - icon: brands/linkedin
     url: https://www.linkedin.com/lucas-burna
+  - icon: brands/github
+    url: https://github.com/burna680
 
 education:
   - area: Electronic Engineer
@@ -41,10 +38,11 @@ education:
     date_start: 2016-03-16
     date_end: 2024-12-30
     summary: |
-      Currently working on my thesis degree on GANs applications for demixing MNIST numbers. Supervised by [Prof Joe Smith](https://example.com)
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Currently working on my thesis degree on GANs applications for demixing MNIST numbers.
+    #   # Supervised by [Prof Joe Smith](https://example.com)
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   # - area: MEng Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   date_start: 2016-01-01
@@ -123,7 +121,7 @@ skills:
       - name: Poetry
         description: ''
         percent: 80
-        icon: book
+        icon: book.solid
 
 languages:
   - name: Spanish
@@ -137,18 +135,18 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Conversational Chatbot
-    # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2024-09-11'
-    awarder: Langchain
-    # icon: langchain
-    # summary: |
-    #   I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Car Safety Predictor
-    # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2024-08-20'
-    awarder: MLFlow
+# awards:
+#   - title: Conversational Chatbot
+#     # url: https://www.coursera.org/learn/neural-networks-deep-learning
+#     date: '2024-09-11'
+#     awarder: Langchain
+#     # icon: langchain
+#     # summary: |
+#     #   I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+#   - title: Car Safety Predictor
+#     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+#     date: '2024-08-20'
+#     awarder: MLFlow
     # icon: edx
     # summary: |
     #   Learned:
@@ -164,4 +162,4 @@ awards:
 #     summary: |
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-As an AI enthusiast who loves tackling complex challenges and turning them into simple, efficient solutions, always with a passion for doing things right and a curiosity to explore new ideas.
+I'm an AI enthusiast who loves tackling complex challenges and turning them into simple, efficient solutions, always with a passion for doing things right and a curiosity to explore new ideas.
