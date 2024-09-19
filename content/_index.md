@@ -6,7 +6,7 @@ type: landing
 design:
   # Default section spacing
   spacing: "4rem"
-
+  padding: ['0', '20px', '0', '20px']
 # Note: `username` refers to the user's folder name in `content/authors/`
 
 # Page sections
@@ -63,7 +63,7 @@ sections:
       sort_ascending: false
     design:
       # Choose a listing view
-      view: showcase
+      view: card
   - block: experience
     content:
       username: admin

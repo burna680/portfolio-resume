@@ -117,7 +117,7 @@ skills:
       - name: Cycling
         description: ''
         percent: 100
-        icon: person-biking-mountain
+        icon: cycling
       - name: Poetry
         description: ''
         percent: 80
@@ -162,4 +162,6 @@ languages:
 #     summary: |
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-I'm an AI enthusiast who loves tackling complex challenges and turning them into simple, efficient solutions, always with a passion for doing things right and a curiosity to explore new ideas.
+I am a Machine Learning Engineer and Software Developer with a strong background in AI, data science, and software engineering. With experience in building  AI solutions, I specialize in developing and optimizing machine learning models, from initial data gathering to production deployment. I have worked on advanced conversational AI systems, computer vision projects, and MLOps pipelines, always with a focus on efficiency and measurable impact.
+
+Driven by curiosity and a passion for problem-solving, I thrive on transforming complex challenges into clear, actionable solutions. My commitment to continuous learning and innovation allows me to stay at the forefront of emerging technologies, while my collaborative approach ensures that I consistently deliver results that align with business goals.
